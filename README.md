@@ -3,7 +3,9 @@
 2021 cs231n作业  
 Course: https://cs231n.github.io/
 
-Code Download: https://cs231n.github.io/assignments/2021/assignment1_colab.zip
+assignment1  Code Download: https://cs231n.github.io/assignments/2021/assignment1_colab.zip
+
+assignment2  Code Download: https://cs231n.github.io/assignments/2021/assignment2_colab.zip
 
 Enviorment:Google colab
 
